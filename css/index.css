@@ -1,0 +1,14 @@
+#main {
+    height: 100%;
+    border: solid;
+}
+#nav {
+    border: solid;
+    height: 50px;
+}
+
+#section_1 {
+    margin: 0 auto;
+    border: solid;
+    height: 300px;
+}
